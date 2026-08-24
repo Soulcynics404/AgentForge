@@ -12,7 +12,7 @@
 [![Claude Code](https://img.shields.io/badge/works_with-Claude_Code-D97757?style=flat-square&logo=anthropic)](https://claude.com/claude-code)
 [![Codex](https://img.shields.io/badge/works_with-OpenAI_Codex-412991?style=flat-square)](https://openai.com/codex)
 
-**Maintained by [Soulcynics404](https://github.com/Soulcynics404)** · Harsshhh
+**Maintained by [Soulcynics404](https://github.com/Soulcynics404)** · Harsshh
 
 [Quick Start](#-quick-start) · [Install](#-installation) · [Claude Code Integration](#-integrate-with-claude-code) · [Swarm Commands](#-swarm-coordination) · [MCP Server](#%EF%B8%8F-mcp-server) · [Docs](docs/USERGUIDE.md)
 
@@ -227,7 +227,7 @@ Issues and PRs welcome! For significant changes, open an issue first. Upstream c
 
 ## 📄 License
 
-[MIT](LICENSE) — original code © 2024–2026 [ruvnet](https://github.com/ruvnet). Fork maintenance & rebranding © 2026 Harsshhh ([Soulcynics404](https://github.com/Soulcynics404)).
+[MIT](LICENSE) — original code © 2024–2026 [ruvnet](https://github.com/ruvnet). Fork maintenance & rebranding © 2026 Harsshh ([Soulcynics404](https://github.com/Soulcynics404)).
 
 <div align="center">
 
