@@ -2,7 +2,7 @@
 
 # ⚒️ AgentForge
 
-<img src="assets/logo-preview.png" alt="AgentForge — Where AI agents are forged" width="180"/>
+<img src="assets/logo-preview.png" alt="AgentForge — Where AI agents are forged" width="280"/>
 
 ### Where AI agents are forged — orchestration for Claude Code & Codex
 
